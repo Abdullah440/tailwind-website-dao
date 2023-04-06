@@ -8,7 +8,6 @@ const header = () => {
     <Wrapper>
     <header className="flex justify-between bg-white py-4 sticky top-0 items-center">
         {/* Logo */}
-        {/* Logo */}
         <div>
             <Image src={Logo} alt='Panaverse DAO Logo'></Image>
         </div>
